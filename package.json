@@ -1,0 +1,14 @@
+{
+  "name": "velocity-demo",
+  "description": "come velocity demo with jquery",
+  "version": "1.0.0",
+  "author": "Carl2212 <ainianyu854362212@163.com>",
+  "private": true,
+  "scripts": {
+
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
